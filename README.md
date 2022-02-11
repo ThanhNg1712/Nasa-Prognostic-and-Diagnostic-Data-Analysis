@@ -3,14 +3,14 @@
 # Project 1: Lithium Ion Battery - Preventive Maintenace
  * The project is an extention analysis and modeling from the [notebook](https://www.kaggle.com/rajeevsharma993/battery-health-nasa-dataset) of Rudra from Kaggle. In Rudra notebook, he used LSTM-Deep learning models to predict the time that capacity of the battery reaching threshold. However, computational load is very intensive since this is a very large dataset.
  * This project delivered alternative models including AR models, Machine Learning models with approximate errors compare to the LSTM model. A special feature of this project is the best order of AR models has bean determine by a range of order from 1 to 19. The best order is the number of data point used to predict the next cycle's capacity. The best order is chosen by Akaike Information Criterion (AIC). Machine Learning models are also also performed with comparabel results. A report with clear explaination is delivered.
-    1. [Python notebook](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/battery_health_ar_model_vs_lstm%20(1).ipynb), includes
+   1. [Python notebook](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/battery_health_ar_model_vs_lstm%20(1).ipynb), includes
       1. Data Enginnering: Conduct complete Data Frame from raw, check and clean missing data
       2. Data EDA: Visualizations of features over time, correlationships
       3. LSTM models motivated by Rudra notebook
       4. AR model with best order
       5. Machine Learning model selections and optimizations
-   2.[Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery) can be found from Nasa Data Repository
-   3.[Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
+  2.[Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery) can be found from Nasa Data Repository
+  3.[Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
 
 # Project 2 : Nava Propulsion Plant
 * The project provides models to predict time to failure of Naval propulsion plan for predictive maintenace, includes:
