@@ -9,16 +9,16 @@
       3. LSTM models motivated by Rudra notebook
       4. AR model with best order
       5. Machine Learning model selections and optimizations
-  2.[Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery) can be found from Nasa Data Repository
-  3.[Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
+  2. [Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery) can be found from Nasa Data Repository
+  3. Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
 
 # Project 2 : Nava Propulsion Plant
 * The project provides models to predict time to failure of Naval propulsion plan for predictive maintenace, includes:
-  1.[Python note book](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Naval%20Propulsion%20Plan/naval-propulsion-conditionbasemaintence.ipynb), the notebook includes comments and explaiations
-    1. Data enginnering: Conducting data frame, checking and cleaning missing data
-    2. Data EDA : Data visualizations of features, correlationships, check and drop redundant or constant variables
-    3. Model selections: Linear Regression, Random Forest, KNN, Decision Tree, Bagging, XGB Regressor
-    4. Reduction dimensions with PCA and opimize performance of the best model: Bagging
+  1. [Python note book](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Naval%20Propulsion%20Plan/naval-propulsion-conditionbasemaintence.ipynb), the notebook includes comments and explaiations
+     1. Data enginnering: Conducting data frame, checking and cleaning missing data
+     2. Data EDA : Data visualizations of features, correlationships, check and drop redundant or constant variables
+     3. Model selections: Linear Regression, Random Forest, KNN, Decision Tree, Bagging, XGB Regressor
+     4. Reduction dimensions with PCA and opimize performance of the best model: Bagging
   2. [ Dataset](http://archive.ics.uci.edu/ml/datasets/Condition+Based+Maintenance+of+Naval+Propulsion+Plants?ref=datanews.io) on UCI Machine Learning Repository
  
  # Project 3: Nasa Turbofan Degradation - Preventive Maintenance
