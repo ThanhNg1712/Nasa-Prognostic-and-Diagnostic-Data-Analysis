@@ -10,7 +10,7 @@
       4. AR model with best order
       5. Machine Learning model selections and optimizations
     2.[Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery) can be found from Nasa Data Repository
-    3.[Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and comparison
+    3.[Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
 
 # Project 2 : Nava Propulsion Plant
 * The project provides models to predict time to failure of Naval propulsion plan for predictive maintenace, includes:
