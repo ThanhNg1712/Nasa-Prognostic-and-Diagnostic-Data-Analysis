@@ -10,7 +10,7 @@
       4. AR model with best order
       5. Machine Learning model selections and optimizations
   2. [Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery) can be found from Nasa Data Repository
-  3. Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
+  3. [Report](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Lithium%20Ion%20Battery/Report.pdf) with clear explaination and        comparison
 
 # Project 2 : Nava Propulsion Plant
 * The project provides models to predict time to failure of Naval propulsion plan for predictive maintenace, includes:
@@ -25,7 +25,7 @@
  * The project aims to optimize the computational load of predictive models using Deep Learning model-LSTM. LSTM is a common model that widely used in predidicting  upcoming failures for preventive maintenance, but computational load is intensive, which is time-consuming. The project applied LSTM model with AR model, the      idea fitting LSTM model with train set, then the concept of AR model is applied to predict future performance on test set.
  *  In particular, only a group of data in test set is used to predict the next data point. In the note book, 10 entries is used to predict eleventh data  and 5 entries is used to predicted sixth data
  *  The project goes with
-    1.[Python notebook](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Nasa%20Turbofan/nasa-turbofan-predict-rul-using-lstm-and-ar-model.ipynb)
-    2.[Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) can be found on Nasa Data Repository
+      1.[Python notebook](https://github.com/ThanhNg1712/Nasa-Prognostic-and-Diagnostic-Data-Analysis/blob/main/Nasa%20Turbofan/nasa-turbofan-predict-rul-using-  lstm-and-ar-model.ipynb)
+      2.[Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) can be found on Nasa Data Repository
  
  
